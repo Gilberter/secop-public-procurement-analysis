@@ -1,0 +1,12 @@
+sodapy
+pandas
+boto3
+awswrangler
+fsspec
+s3fs
+matplotlib
+seaborn
+wordcloud
+streamlit
+sagemaker
+scikit-learn

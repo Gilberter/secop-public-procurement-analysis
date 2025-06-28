@@ -1,0 +1,4 @@
+,0
+num_samples,90295
+columns,"['nivel_entidad', 'codigo_entidad_en_secop', 'nombre_de_la_entidad', 'nit_de_la_entidad', 'departamento_entidad', 'municipio_entidad', 'estado_del_proceso', 'modalidad_de_contratacion', 'objeto_a_contratar', 'objeto_del_proceso', 'tipo_de_contrato', 'fecha_de_firma_del_contrato', 'fecha_inicio_ejecucion', 'fecha_fin_ejecucion', 'numero_del_contrato', 'numero_de_proceso', 'valor_contrato', 'nom_raz_social_contratista', 'url_contrato', 'origen', 'tipo_documento_proveedor', 'documento_proveedor', 'duracion_dias', 'anio_contrato', 'entities_text', 'key_phrases_text', 'entities_text_joined']"
+description,Datos de contratación pública para análisis
